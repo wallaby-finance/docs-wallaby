@@ -1,3 +1,6 @@
+
+.. figure:: ../walllaby.png
+
 Compound Yields with Wallaby
 =============================
 
@@ -9,18 +12,16 @@ Yield Optimization Strategies with Wallaby.Finance
 
 A key difference in Yield Farming on Huobi ECO Chain is the low gas fee. This makes it much easier for small players and ordinary individuals to enter the DeFi space and still get a good share of the crops with small amounts of capital. Through automation, Our allows individuals to reap the benefits of compounding without any additional steps. Ourcalculates the most optimal compounding frequency and automatically compounds your tokens through smart contracts.
 
-Wallaby, like other yield aggregators on Huobi ECO Chain, uses MDX since it is the most prominent platform for Yield Farming. Ouris continuously striving to create innovative new Yield Optimization Strategies. Currently we have Wallaby，MDX，Wallaby-WHT，MDX-WHT ,HBTC-WHT, ETH-WHT Pools. Furthermore, on our website, you can see we have the maximizer vaults. These strategies allow users to get the profits from certain pools and these profits are automatically auto compounded into the MDX compounding pool, giving users a much greater return, while protecting the principal. 
+Wallaby, like other yield aggregators on Huobi ECO Chain, uses MDX since it is the most prominent platform for Yield Farming. Ouris continuously striving to create innovative new Yield Optimization Strategies. Currently we have Wallaby，Wallaby-WHT，MDX-WHT ,MDX-USDT, ETH-MDX, ETH-WHT, WHT-USDT, ETH-USDT, HUSD-USDT Pools. Furthermore, on our website, you can see we have the maximizer vaults. These strategies allow users to get the profits from certain pools and these profits are automatically auto compounded into the MDX compounding pool, giving users a much greater return, while protecting the principal. 
 
 Contact Us
 ===========
 
-  - Twitter: @PanMDXWallabyFin https://twitter.com/PanMDXWallabyFin
+  - Twitter: https://twitter.com/FinanceWallaby
 
-  - Telegram: https://t.me/panMDXWallaby_fin
+  - Telegram: https://t.me/Wallaby_Finance
 
-  - Medium: https://panMDXWallaby.medium.com
+  - Email: wallaby.finance@gmail.com
 
-  - Email: hello@panMDXWallaby.finance
-
-  - GitHub: https://github.com/PanMDXWallaby-finance/
+  - GitHub: https://github.com/wallaby-finance/wallaby-contract
 

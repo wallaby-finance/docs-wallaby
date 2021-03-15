@@ -88,13 +88,11 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../Introduction/index.html">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../How-to-Guides/index.html">How-to Guides</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../BUNNY-token/index.html">BUNNY token</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../WALLABY-token/index.html">WALLABY-token</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="index.html">Vaults</a><ul class="current">
 <li class="toctree-l2 current"><a class="current reference internal" href="#">1. Wallaby Staking Farm</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#wallaby-ht-farm">2. Wallaby/HT Farm</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#mdx-auto-compounding-farm">3. MDX Auto Compounding Farm</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#rest-of-mdxswap-farms">4. Rest of MDXSwap Farms</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#maximizer-mdxswap-farms">5. Maximizer MDXSwap Farms</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#wallaby-wht-farm">2. Wallaby/WHT Farm</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#rest-of-mdex-swap-farms">3. Rest of Mdex Swap Farms</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../ZAP/index.html">ZAP</a></li>
@@ -174,21 +172,13 @@
 <h1><span class="section-number">1. </span>Wallaby Staking Farm<a class="headerlink" href="#wallaby-staking-farm" title="Permalink to this headline">¶</a></h1>
 <p>In this farm, users can stake using their Wallaby tokens, while getting back WHT. The APR for this farm is dependent on the performance of all the other farms, since the 30% performance fee on other farms are what is collected and given out as the reward/roi for the Wallabystaking pool. Wallaby Pool has no withdrawal fee and no performance fee.</p>
 </div>
-<div class="section" id="wallaby-ht-farm">
-<h1><span class="section-number">2. </span>Wallaby/HT Farm<a class="headerlink" href="#wallaby-ht-farm" title="Permalink to this headline">¶</a></h1>
-<p>In this farm, users can deposit Wallaby/HT and earn even more Wallaby tokens. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours.</p>
+<div class="section" id="wallaby-wht-farm">
+<h1><span class="section-number">2. </span>Wallaby/WHT Farm<a class="headerlink" href="#wallaby-wht-farm" title="Permalink to this headline">¶</a></h1>
+<p>In this farm, users can deposit WHT and earn even more Wallaby tokens. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours.</p>
 </div>
-<div class="section" id="mdx-auto-compounding-farm">
-<h1><span class="section-number">3. </span>MDX Auto Compounding Farm<a class="headerlink" href="#mdx-auto-compounding-farm" title="Permalink to this headline">¶</a></h1>
-<p>The MDX farm is where you can reap the benefits of automating compounding and the high APY. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours. The 30% performance fee is collected but for every 1HT in fees collected, we give 5 Wallaby, so you’re getting free money.</p>
-</div>
-<div class="section" id="rest-of-mdxswap-farms">
-<h1><span class="section-number">4. </span>Rest of MDXSwap Farms<a class="headerlink" href="#rest-of-mdxswap-farms" title="Permalink to this headline">¶</a></h1>
-<p>Currently we have Wallaby-WHT，MDX-WHT ,HBTC-WHT, ETH-WHT pools, which exist on MDXswap. Our smart contracts automatically compound your investments, giving you a higher APY. For these pools, as profit you will be getting the respective LP Token of the pool, as well as Wallaby tokens. 30% of profits will be collected and given as Wallaby tokens. For every 1HT collected, we give 10 Wallaby. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours. Currently you can only claim your profits, if you claim &amp; exit the pool. We may change this in the future.</p>
-</div>
-<div class="section" id="maximizer-mdxswap-farms">
-<h1><span class="section-number">5. </span>Maximizer MDXSwap Farms<a class="headerlink" href="#maximizer-mdxswap-farms" title="Permalink to this headline">¶</a></h1>
-<p>The Maximizer farms takes the profits that come out of the original compounded MDXswap farm, and puts it into the MDX auto-compounding farm, in order to give you a higher apy, while protecting your principal. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours. With the Maximizer Farms, users can claim their profits, without exiting the farm.</p>
+<div class="section" id="rest-of-mdex-swap-farms">
+<h1><span class="section-number">3. </span>Rest of Mdex Swap Farms<a class="headerlink" href="#rest-of-mdex-swap-farms" title="Permalink to this headline">¶</a></h1>
+<p>Currently we have Wallaby，Wallaby-WHT，MDX-WHT ,MDX-USDT, ETH-MDX, ETH-WHT, WHT-USDT, ETH-USDT, HUSD-USDT pools, which exist on Mdex swap. Our smart contracts automatically compound your investments, giving you a higher APY. For these pools, as profit you will be getting the respective LP Token of the pool, as well as Wallaby tokens. 30% of profits will be collected and given as Wallaby tokens. For every 1HT collected, we give 10 Wallaby. There should be a withdrawal fee of 0.5% if withdrawn within 72 hours. Currently you can only claim your profits, if you claim &amp; exit the pool. We may change this in the future.</p>
 <p>According to our test calculations, assuming that MDX price stays constant, USDT-HT Farm APY is 30%, and MDX APR is 300%, then the APY of someone who deposits into the “Yield Maximizing USDT-HT Farm” would be 189.9%. This is much higher than the 30% achieved by simply compounding USDT-HT, yet the risk is very minimal. The only risks would be if MDX price drops significantly, or if the MDX APR drops as well. That being said even if the MDX price drops significantly the principal amount invested in USDT and HT would still be the same. Similar to our regular farms, in order to fully benefit from the compounding effect, a user must have the patience to sit back and watch their money grow exponentially over time. One small complication is that because of the way the new yield maximized farms are coded through back end development, the yields earned daily (24 hour period) get distributed the next day on a rolling cycle. This means that users who deposit from day 0 to day 1 would be at a slight disadvantage as they would not be able to receive their fair share of yields for the first 24 hours. To mitigate this effect we plan on giving these early users some Wallaby to compensate for the lost yields. The graph below illustrates the difference in returns between the original Stable-HT farm and the new Yield Maximizing Stable-HT farm.</p>
 <p>We have provided the mathematical formula for calculating the total geometric sum. Feel free to use it to personalize your calculations.</p>
 </div>

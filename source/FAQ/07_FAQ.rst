@@ -1,7 +1,7 @@
 
 What is Wallaby?
 ================
-Wallaby is a new and rapidly growing DeFi yield aggregator that is used for MDXSwap. The Wallaby protocol empowers farmers to leverage their yield-seeking tendencies to optimize yield compounding strategy on HECO. We are providing strategies for the various needs of farmers from the highest yield seekers to the risk reward optimizing smart investors.
+Wallaby is a new and rapidly growing DeFi yield aggregator that is used for Mdex Swap. The Wallaby protocol empowers farmers to leverage their yield-seeking tendencies to optimize yield compounding strategy on HECO. We are providing strategies for the various needs of farmers from the highest yield seekers to the risk reward optimizing smart investors.
 
 What is the Reason for launching Wallaby?
 =============================================
@@ -51,7 +51,7 @@ This comes from Mdexswap.
 
 Which rewards get compounded?
 ==================================
-Currently all the farms get compounded except for the Wallaby Staking farm and the Wallaby/HT farm. The Wallaby rewards that come out of all pools, currently are not compounded. Only the MDX and flip rewards are auto-compounded.
+Currently all the farms get compounded except for the Wallaby Staking farm and the Wallaby-WHT farm. The Wallaby rewards that come out of all pools, currently are not compounded. Only the MDX and flip rewards are auto-compounded.
 
 What is the Fee Structure?
 ===============================
@@ -103,7 +103,7 @@ Like all DeFi Projects, it is important not to trust but to verify the legitimac
 
 Is Wallaby Audited?
 ======================
-Yes, Haechi Labs has completed the first audit. The results were extremely positive! The audit highlighted no critical or major issues, and two minor issues. One of the minor issues has been found on most well-known governance tokens and will not expose much issue/security risk to normal end-users. The other minor issue is an intended behavior.
+Yes, Haechi Labs has completed the first audit. The results were extremely positive!
 
 Please see the report here
 
