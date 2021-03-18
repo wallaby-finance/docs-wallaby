@@ -22,24 +22,23 @@ The Wallab ytoken doesn’t have a max supply. For every 1 HT earned in the perf
     - For further clarification the 30% performance fee is collected and given to the Wallaby stakers. For every 1 HT earned through performance fees, 10 Wallabyis minted and given to respective users. So long as the price of Wallaby stays above 1HT/10, users are actually earning money through this performance fee system. All of these fees will ultimately go towards staking Wallaby, thereby ensuring the sustainability and longevity of our project and benefitting Wallabysupporters/holders.
 
 
-
 - Presale
 
   - Date: 3/19 SGT 12:00 ~ 3/22 SGT 20:00
 
-  - Allocation: 10,000 HT
+  - Allocation: 100,000 HT
 
-  - returns: 10,000 HT worth of LP tokens + locked up 50,000 Wallaby tokens
+  - returns: 100,000 HT worth of LP tokens + locked up 500,000 Wallaby tokens
 
-  - 10 Wallaby Tokens are given per 1 HT. If all 10,000 HT gets sold and allocated a total of 100,000 Wallaby will be issued.
+  - 10 Wallaby Tokens are given per 1 HT. If all 100,000 HT gets sold and allocated a total of 1,000,000 Wallaby will be issued.
 
-    Participants of the presale are eligible to withdraw Wallaby-HT LP following the launch.
+    Participants of the presale are eligible to withdraw Wallaby-WHT LP following the launch.
 
 - Intended Uses
 
   - Liquidity Pool
 
-    - Once the pool is created, 5,000 HT and 50,000 Wallaby will be put in the Mdex Swap Liquidity Pool (Est. Value: $150,000).
+    - Once the pool is created, 50,000 HT and 500,000 Wallaby will be put in the Mdex Swap Liquidity Pool (Est. Value: $1,500,000).
 
     - LP Tokens will be given to presale participants according to their share.
 
@@ -47,13 +46,10 @@ The Wallab ytoken doesn’t have a max supply. For every 1 HT earned in the perf
 
     - The WallabyReward pool is a type of reward pool that issues HT as a reward for staking Wallaby.
 
-    - When the pool gets created the presale participants’ 50,000 Wallaby will get staked.
+    - When the pool gets created the presale participants’ 500,000 Wallaby will get staked.
 
-    - 5,000 HT will get accumulated as rewards and will get distributed over 365 days.
+    - 50,000 HT will get accumulated as rewards and will get distributed over 365 days.
 
     - There will be a Wallaby lockup for Presale Participants. Following the launch, the presale Wallaby tokens will be unlocked equally according to the amount of new Wallaby tokens issued.
 
-    - 1 Year of continuous staking will allow for a full withdrawal of 5,000 HT without any fees.
-
-
-
+    - 1 Year of continuous staking will allow for a full withdrawal of 50,000 HT without any fees.
