@@ -51,7 +51,7 @@ This comes from Mdexswap.
 
 Which rewards get compounded?
 ==================================
-Currently all the farms get compounded except for the Wallaby Staking farm and the Wallaby-WHT farm. The Wallaby rewards that come out of all pools, currently are not compounded. Only the MDX and flip rewards are auto-compounded.
+Currently all the farms get compounded except for the Wallaby Staking farm and the Wallaby-WHT farm. The Wallaby rewards that come out of all pools, currently are not compounded. Only the MDX and LPT rewards are auto-compounded.
 
 What is the Fee Structure?
 ===============================
